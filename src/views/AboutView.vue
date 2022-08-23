@@ -8,7 +8,7 @@ import TheWelcome from '@/components/TheWelcome.vue'
     <div class="card">
       <div class="card-body">
         <main>
-          <h1 class="text-center mt-2 fw-bold">My Skills</h1><hr>
+          <h3 class="text-center mt-2 fw-bold">My Skills</h3><hr>
           <TheWelcome/>
         </main>
       </div>
@@ -28,7 +28,7 @@ import TheWelcome from '@/components/TheWelcome.vue'
 }
 
 
-.about h1{
+.about h3{
   font-family: sans-serif;
 }
 

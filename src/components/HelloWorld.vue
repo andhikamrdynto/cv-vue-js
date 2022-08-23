@@ -56,6 +56,7 @@ p {
   p{
     width: 400px;
   }
+  
   .greetings h1,
   .greetings h3,
   .greetings p {
