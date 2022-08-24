@@ -8,27 +8,7 @@
     <img alt="Vue logo" class="logo" src="public/photo/profile.jpeg"/>
 
       <HelloWorld msg="You did it!" />
-    <main>
-      <h2 class="text-center fw-bold pt-5 mt-5 mb-5">My Projects</h2>
-      <DisplayGrid class="mb-5 reverse">
-        <template #grid-1>
-          <img src="public/photo/landing.png" alt="">
-          <img src="public/photo/landing-2.png" alt="">
-        </template>
-        <template #grid-2>
-          <h3>Landing Page with HTML, CSS, Bootstrap</h3>
-        </template>
-      </DisplayGrid>
-      <DisplayGrid class="mb-5 column">
-        <template #grid-1>
-          <h3>Duplicate Valorant with HTML, CSS, JavaScript</h3>
-        </template>
-        <template #grid-2>
-          <img src="public/photo/valorant-1.png" alt="">
-          <img src="public/photo/valorant-2.png" alt="">
-        </template>
-      </DisplayGrid>
-    </main>
+    
   </div>
 </template>
 
